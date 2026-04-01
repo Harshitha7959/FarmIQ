@@ -1,0 +1,7 @@
+streamlit
+pillow
+numpy
+gTTS
+SpeechRecognition
+openai
+pydub
