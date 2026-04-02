@@ -10,7 +10,7 @@ def show():
 
     if st.button("Get Weather"):
 
- def get_weather(city):
+       def get_weather(city):
     return {
         "temperature": 28,
         "humidity": 75,
