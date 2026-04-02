@@ -1,6 +1,6 @@
-def get_weather():
+def get_weather(city):
     return {
         "temperature": 28,
         "humidity": 75,
-        "condition": "Cloudy"
+        "condition": f"Cloudy in {city}"
     }
